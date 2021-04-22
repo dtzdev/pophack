@@ -1,3 +1,10 @@
-// Copy Paste This
+var event = new KeyboardEvent('keydown', {
+	key: 'g',
+	ctrlKey: true
+});
 
-// Code Coming Today Soon
+setInterval(function(){
+	for (i = 0; i < 100; i++) {
+		document.dispatchEvent(event);
+	}
+}, 0);
