@@ -1,5 +1,6 @@
 # PopCat Autoclick Script V2
 Another PopCat Autoclick script
+
 YOU CANT CUSTOMIZE CPS IN THIS VERSION
 
 # Using In popcat.click
@@ -12,4 +13,5 @@ YOU CANT CUSTOMIZE CPS IN THIS VERSION
 
 # More
 Made By DataYT.
+
 Feel free to use it yourself, i dont need credits.
